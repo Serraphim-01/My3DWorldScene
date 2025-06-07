@@ -1,0 +1,11 @@
+What sources did you use for your 3D models or terrain?
+-- I used only Unity Asset Store for my 3d assets
+
+What Challenges did you face while integrating assets from different sources?
+-- I used only Unity Asset Store
+
+How did you ensure a cohesive and visually appealing scene?
+-- I used assets with a nice graphic appeal and made sure they merged seamlessly together.
+
+If given more time, what would you improvise or add to your scene?
+-- I would add more trees, grass and flowers to the scene. And make a proper forest tribe setting.
