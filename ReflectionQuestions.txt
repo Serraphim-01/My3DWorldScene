@@ -1,11 +1,13 @@
-What sources did you use for your 3D models or terrain?
--- I used only Unity Asset Store for my 3d assets
+How did you design your UI Pages to make navigation Intuitive?
+I designed my UI pages with clear labels, consistent layout, and easily accessible buttons placed in expected positions, 
+using visual hierarchy to guide the user’s attention and make navigation intuitive and seamless
 
-What Challenges did you face while integrating assets from different sources?
--- I used only Unity Asset Store
+What challenges did you encounter while integrating audio?
+One challenge I encountered while integrating audio was managing multiple AudioSources to prevent overlapping
+I also encountered abrupt cuts between background music, especially when transitioning between UI and gameplay.
 
-How did you ensure a cohesive and visually appealing scene?
--- I used assets with a nice graphic appeal and made sure they merged seamlessly together.
+How did you ensure a seamless transition between your UI and your 3D world scene?
+- I ensured a seamless transition between the UI and the 3D world scene by switching out the UI canvas while simultaneously starting the 3D scene’s camera and background audio.
 
-If given more time, what would you improvise or add to your scene?
--- I would add more trees, grass and flowers to the scene. And make a proper forest tribe setting.
+What Improvements would you make given more time?
+- I would love to work more on the UI design as it is currently too plain.
