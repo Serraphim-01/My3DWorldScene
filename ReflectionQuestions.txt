@@ -1,13 +1,23 @@
-How did you design your UI Pages to make navigation Intuitive?
-I designed my UI pages with clear labels, consistent layout, and easily accessible buttons placed in expected positions, 
-using visual hierarchy to guide the user’s attention and make navigation intuitive and seamless
+How did you design the UI animations to enhance User Experience?
+- I designed the UI animations to enhance user experience by adding Fade In and 
+Slide In from the Left transitions to the Start and Quit buttons for a smooth entrance, 
+applying a looping float animation to the Instructions and Credits buttons to draw gentle 
+attention, and using Slide In animations for the Start Menu, Instructions Page, and 
+Credits Page to make transitions feel dynamic and intuitive.
 
-What challenges did you encounter while integrating audio?
-One challenge I encountered while integrating audio was managing multiple AudioSources to prevent overlapping
-I also encountered abrupt cuts between background music, especially when transitioning between UI and gameplay.
 
-How did you ensure a seamless transition between your UI and your 3D world scene?
-- I ensured a seamless transition between the UI and the 3D world scene by switching out the UI canvas while simultaneously starting the 3D scene’s camera and background audio.
+What challenges did you face while animating the 3D object and setting up transitions?
+- One challenge I faced was syncing the animations with player input while making sure 
+transitions like crouching and walking looked smooth and responsive without scripting 
+everything manually.
 
-What Improvements would you make given more time?
-- I would love to work more on the UI design as it is currently too plain.
+How did you ensure compatibility for both PC and Mobile platforms?
+- I ensured compatibility for both PC and Mobile by using Unity's Input System to support 
+keyboard, mouse, and touchscreen controls, and by designing UI and gameplay elements to 
+adapt seamlessly across screen types and input methods.
+
+What Improvements would you make if given more time?
+- If given more time, I would improve the player animations with smoother blend 
+transitions, add jump and sprint mechanics, polish the UI with more fluid motion and 
+sound feedback, and enhance mobile controls with customizable sensitivity and gesture 
+zones.
